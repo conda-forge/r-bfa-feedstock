@@ -36,6 +36,7 @@ requirements:
     - r-rcpp >=0.10.6
     - r-rcpparmadillo
     - r-coda
+    - openblas                   # [osx]
 
   run:
     - r-base
@@ -43,6 +44,7 @@ requirements:
     - r-rcpp >=0.10.6
     - r-rcpparmadillo
     - r-coda
+    - openblas                   # [osx]
 
 test:
   commands:
