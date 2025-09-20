@@ -9,7 +9,7 @@ About r-bfa
 
 Home: https://CRAN.R-project.org/package=bfa
 
-Package license: GPL-3
+Package license: GPL-3.0-only
 
 Summary: Provides model fitting for several Bayesian factor models including Gaussian, ordinal probit, mixed and semiparametric Gaussian copula factor models under a range of priors.
 
@@ -18,7 +18,7 @@ About r-bfa
 
 Home: https://CRAN.R-project.org/package=bfa
 
-Package license: GPL-3
+Package license: GPL-3.0-only
 
 Summary: Provides model fitting for several Bayesian factor models including Gaussian, ordinal probit, mixed and semiparametric Gaussian copula factor models under a range of priors.
 
